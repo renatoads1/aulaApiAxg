@@ -1,0 +1,9 @@
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\bin\Debug\netcoreapp3.1\XGApi.deps.json
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\bin\Debug\netcoreapp3.1\XGApi.dll
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\bin\Debug\netcoreapp3.1\XGApi.pdb
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\obj\Debug\netcoreapp3.1\XGApi.csproj.AssemblyReference.cache
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\obj\Debug\netcoreapp3.1\XGApi.AssemblyInfoInputs.cache
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\obj\Debug\netcoreapp3.1\XGApi.AssemblyInfo.cs
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\obj\Debug\netcoreapp3.1\XGApi.csproj.CoreCompileInputs.cache
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\obj\Debug\netcoreapp3.1\XGApi.dll
+C:\Users\renatovmi2021\source\repos\XGApi\XGApi\obj\Debug\netcoreapp3.1\XGApi.pdb

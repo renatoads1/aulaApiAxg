@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XGAPPConsole/1.0.0": {
+        "dependencies": {
+          "XGApi": "1.0.0"
+        },
+        "runtime": {
+          "XGAPPConsole.dll": {}
+        }
+      },
+      "XGApi/1.0.0": {
+        "runtime": {
+          "XGApi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XGAPPConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XGApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
