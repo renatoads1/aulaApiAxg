@@ -14,3 +14,5 @@ C:\Users\renatovmi2021\source\repos\XGApi\XGAPPConsole\obj\Debug\netcoreapp3.1\X
 C:\Users\renatovmi2021\source\repos\XGApi\XGAPPConsole\bin\Debug\netcoreapp3.1\XGApi.dll
 C:\Users\renatovmi2021\source\repos\XGApi\XGAPPConsole\bin\Debug\netcoreapp3.1\XGApi.pdb
 C:\Users\renatovmi2021\source\repos\XGApi\XGAPPConsole\obj\Debug\netcoreapp3.1\XGAPPConsole.csproj.CopyComplete
+C:\Users\renatovmi2021\source\repos\XGApi\XGAPPConsole\bin\Debug\netcoreapp3.1\prmToolkit.NotificationPattern.dll
+C:\Users\renatovmi2021\source\repos\XGApi\XGAPPConsole\bin\Debug\netcoreapp3.1\en-US\prmToolkit.NotificationPattern.resources.dll
